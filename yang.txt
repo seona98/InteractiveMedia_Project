@@ -1,0 +1,31 @@
+<html>
+	<head>
+		
+		<style type = "text/css">
+			.class{
+			margin: 10px auto 10px auto;
+			text-align: left;
+			width: 470px;}
+			.circlephoto {
+   			 width: 140px; height: 140px;
+    			object-fit: cover;
+			    border-radius: 70%;
+			margin: 5px auto 50px 10px;
+			}
+		</style>
+	</head>
+	<body>
+	<center>
+	<iframe width="470" height="265" src="https://www.youtube.com/embed/GiO2Nw2haOE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div> 
+	</center>
+	<div class="class">
+	<p style="font-size:20;"> <b>잔나비 </b></p>
+	<p>양다일은 발라드 가수이다. 노래를 정말 잘 부르고 음색도 좋아서 좋아하게 되었다. 양다일 음악이 모두 가슴 적적한 노래, 슬픈 노래들이 많다. 그 가사에 담긴 감정들이 노래를 들을 때마다 느낄 수 있다. </p>
+	<p style="font-size:18;"><b>노래 추천</b></p>
+	<p>양다일 노래중 추천하는 곡들은 ‘곁에 있는 너’, ‘너를 잊으면’, '떠나지마'등이다. 곁에 있는 너와 너를 잊으면은 ‘inside’앨범에 있는 곡들이다. 두 곡은 타이틀이 아님에도 불구하고 노래가 좋다. 이 앨범은 대부분 좋아서 한 번씩 들어보는 것도 좋을 것 같다.</p>
+	<img class='circlephoto' src = "img/inside.jpg">
+	<img class='circlephoto' src = "img/떠나지마.jpg">	
+	</div>
+	</body>
+</html>

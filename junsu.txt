@@ -1,0 +1,40 @@
+<html>
+	<head>
+		
+		<style type = "text/css">
+			.class{
+			margin: 10px auto 10px auto;
+			text-align: left;
+			width: 470px;}
+			.circlephoto {
+   			 width: 140px; height: 140px;
+    			object-fit: cover;
+			    border-radius: 70%;
+			margin: 5px auto 50px 10px;
+			}
+		</style>
+	</head>
+	<body>
+	<center>
+	<div = style = "width: 500px;" id = "movie">
+	<iframe width="470" height="265" src="https://www.youtube.com/embed/U-yPT_f8EOI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div> 
+	</center>
+
+	<div class="class">
+	<p style="font-size:20;"><b>동방신기</b></p>
+	<p>김준수는 2003년 '동방신기' 그룹으로 데뷔하고 그룹 'jyj'활동을 하고 현재는 솔로 뮤지션으로서 자신의 꿈을 이어나고 있는 가수 겸 뮤지컬 배우이다. 나는 개인적으로 자신의 직업에서 열심히 노력하고 잘하는 사람들을 좋아한다. 그 중 김준수가 내 생각에 제일 근접하다. 그래서 더 좋아하게 되었다. 김준수의 노래를 항상 정직하고, 올곧으며, 진심이 듬뿍 담겨있다. 위의 영상은 김준수가 EBS 스페이스 공감 방송에서 부른 '나비'이다. 나비라는 곡은 김준수의 친 형인 김준호가 작사한 곡인데 이 가사가 주옥같다. 가끔 자신이 삶을 살아가다가 인생의 회의감을 느꼈을 때, 무기력할 때, 힘들 때 내가 무엇을 위해 살아가고 있었을까 이런 생각이 들때가 있다. 하지만 다시 한 걸음 한 걸음 다시 일어날 수 있다는 나만의 꿈이 있고 길이 있다는 것을 깨우쳐주는 그런 곡이다. </p><br/>	
+<center>
+<img src = "img/music1.jpg" width = 210px height = 290px> 
+<img src = "img/music2.jpg" width = 210px height = 290px></center>
+	<p>김준수는 뮤지컬에도 발을 뻗고 나아가고있다. 위 사진 처럼 디셈버, 드라큘라 뮤지컬 뿐만 아니라 더 많은 뮤지컬을 연기해왔다. 처음에는 '모차르트!' 뮤지컬로 뮤지컬계에 발을 내밀었고 더욱더 열심히 해서 남우주연상도 받게 되었다. </p>
+
+	<p style="font-size:18;"><b>노래 추천</b></p>
+	<p>김준수 노래 중 추천해주고 싶은 노래는 앞서 말한 '나비', '꼭 어제', '7살'이다. 7살을 JYJ그룹에서 'JUST US'앨범에 있는 김준수 솔로 곡이다. 일반 사람들은 잘 모를 수도 있는 곡인데 이 곡은 김준수가 작사, 작곡한 노래이고 향수를 느낄 수 있는 곡이라 할 수 있다. 한 번씩은 들어보길 바란다.</p>
+<br>
+	<img class='circlephoto' src = "img/꽃.jpg">
+	<img class='circlephoto' src = "img/꼭어제.jpg">	
+	<img class='circlephoto' src = "img/7살.jpg">
+	</div>
+	</body>
+</html>
